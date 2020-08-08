@@ -1,0 +1,5 @@
+CannedFood{id='B101', description='Beans', expiryDate=MyDate{day=11, month=11, year=2020}}
+CannedFood{id='B102', description='Beans', expiryDate=MyDate{day=23, month=8, year=2020}}
+CannedFood{id='B103', description='Beans', expiryDate=MyDate{day=12, month=9, year=2020}}
+CannedFood{id='SA101', description='Sardine', expiryDate=MyDate{day=12, month=9, year=2020}}
+CannedFood{id='SO101', description='Soup', expiryDate=MyDate{day=30, month=7, year=2022}}
